@@ -1,0 +1,76 @@
+body {
+    font-family: 'Courgette', cursive;
+    background: cornsilk;
+}
+
+.header_div {
+    background: cornsilk;
+    color: red;
+}
+
+.header_div img {
+    width: 100px;
+}
+
+.main_div {
+    font-size: 25px;
+    background: greenyellow;
+    padding: 10ox;
+    margin-top: 15px;
+    border: 3px solid red;
+}
+
+.main_div label {
+    background: cornsilk;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: black 5px 5px 18px;
+}
+
+#camera,
+#result {
+    box-shadow: black 5px 5px 18px;
+    border: solid black 2px;
+    width: 310px;
+    height: 300px;
+}
+
+.main_div button {
+    width: 310px;
+    font-size: 16px;
+    box-shadow: black 5px 5px 18px;
+    border: 1px solid;
+}
+
+.footer_div {
+    margin-top: 50px;
+}
+
+.header_div h4 {
+    background: cyan;
+    border-radius: 20px;
+    padding: 5px;
+    box-shadow: black 5px 5px 18px;
+}
+
+.footer_div img {
+    width: 70px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: black;
+    background-color: chartreuse;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+}
+
+#camera {
+    box-shadow: black 5px 5px 18px;
+    border: solid black 2px;
+    width: 310px;
+    height: 300px;
+}
